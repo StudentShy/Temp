@@ -21,7 +21,7 @@ namespace View
         }
 
         /// <summary>
-        /// Меню Выход
+        /// Меню Выхода
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
