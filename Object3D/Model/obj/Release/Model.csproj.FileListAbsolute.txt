@@ -1,0 +1,6 @@
+d:\Заказы\2\лр2\Object3D\Model\bin\Release\Model.dll
+d:\Заказы\2\лр2\Object3D\Model\bin\Release\Model.pdb
+d:\Заказы\2\лр2\Object3D\Model\obj\Release\Model.csproj.AssemblyReference.cache
+d:\Заказы\2\лр2\Object3D\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+d:\Заказы\2\лр2\Object3D\Model\obj\Release\Model.dll
+d:\Заказы\2\лр2\Object3D\Model\obj\Release\Model.pdb
